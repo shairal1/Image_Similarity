@@ -13,7 +13,7 @@ This project explores image similarity using images scraped from Google of the r
 
 ## How to Use
 
- -Navigate to the end of the notebook where you'll find a slider as shown below .
+-Navigate to the end of the notebook where you'll find a slider as shown below .
 
 - Adjust the slider to compare the similarities between different Van Gogh artworks.
 
