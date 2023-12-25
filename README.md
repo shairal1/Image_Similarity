@@ -23,7 +23,7 @@ This project explores image similarity using images scraped from Google of the r
 - **`urls.txt`**: contains urls of the images.
 
 
-
+## Here are some image similarities predicted by the Model
 ![image](https://github.com/shairal1/Image_Similarity/assets/46165309/b8d7b2a6-2c6f-465d-a993-587c7b859f03)
 ![image](https://github.com/shairal1/Image_Similarity/assets/46165309/703ee075-d710-488d-adca-77a5f4db4d06)
 
